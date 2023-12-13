@@ -1,0 +1,40 @@
+*{
+    padding:0 ;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.tab {
+    border: 4px solid black;
+    background-color: beige;
+    padding: 1px;
+    margin: 2px;
+}
+.text {
+    text-decoration:underline;
+    padding: 10px;
+}
+.table {
+    display: table;
+    justify-content: center;
+    
+}
+
+
+
+/*RULES*/
+header {
+    text-align: center;
+    font-size: 13px;
+    padding: 30px;
+}
+main {
+    display: flex;
+    justify-content: center;
+    margin-right: 40px;
+    margin-left: 40px;
+    margin-bottom: 50px;
+}
+ol,ul,li,dl,dt {
+    margin:10px;
+}

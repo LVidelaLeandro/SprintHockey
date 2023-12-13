@@ -1,0 +1,119 @@
+/*INICIO*/
+h1 {
+    border: 10px solid rgb(246, 255, 80);
+    background-color: rgb(246, 255, 80) ;
+    text-align: center;
+    margin: 10px;
+}
+.imag {
+    max-width: 150%;
+    max-height: 150%;
+    object-fit: cover;
+    position: relative;
+    top: 10px;
+}
+.link1 {
+    text-decoration: none;
+    position: relative;
+    bottom: 510px;
+    left: 10px;
+}
+.link2 {
+    position: relative;
+    bottom: 510px;
+    left: 15px;
+}
+.link3 {
+    position: relative;
+    bottom: 510px;
+    left: 20px;
+}
+.image {
+    max-width: 100px;
+    max-height: 100px;
+    object-fit: cover;
+    position: relative;
+    bottom: 605px;
+    left: 490px;
+}
+h2 {
+    text-align: center;
+    border: 10px solid rgb(246, 255, 80);
+    background-color: rgb(246, 255, 80);
+    position: relative;
+    bottom: 130px;
+}
+article {
+    text-align: center;
+    position: relative;
+    top: 10px;
+}
+p {
+    position: relative;
+    top: 10px;
+}
+/*INICIO*/
+
+/*ABOUT*/
+.im1 {
+    max-width: 150%;
+    max-height: 150%;
+    object-fit: cover;
+}
+.im2 {
+    max-width: 100px;
+    max-height: 100px;
+    object-fit: cover;
+    position: relative;
+    bottom: 605px;
+    left: 490px;
+}
+h4 {
+    position: relative;
+    bottom: 80px;
+    font-size: 25px;
+    border: 10px solid rgb(246, 255, 80);
+    background-color: rgb(246, 255, 80);
+}
+div, article, h2 {
+    text-align: center;
+    position: relative;
+    top: 6%;
+}
+/*ABOUT*/
+
+/*CONTACT*/
+.li1 {
+    position: relative;
+    bottom: 615px;
+    left: 10px;
+}
+.li2 {
+    position: relative;
+    bottom: 615px;
+    left: 20px;
+}
+.li3 {
+    text-decoration: none;
+    position: relative;
+    bottom: 615px;
+    left: 30px;
+}
+.im1 {
+    position: relative;
+    top: 10px;
+}
+h5 {
+    font-size: 20px;
+    text-align: center;
+    border: 10px solid rgb(246, 255, 80);
+    background-color: rgb(246, 255, 80);
+    position: relative;
+    bottom: 145px;
+}
+p {
+    text-align: center;
+    position: relative;
+    bottom: 150px;
+}
+/*CONTACT*/
